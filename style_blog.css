@@ -1,0 +1,30 @@
+.header {
+		background-color: grey;
+
+		padding: 20px;
+		
+}
+
+.title_header {
+	color: white;
+	text-align: center;
+
+}
+.lessons_block{
+	background-color: silver;
+	padding: 20px;
+}
+.lessons_list{
+	margin: 20px;
+}
+.forms_lesons_list{
+	padding: 20px;
+
+}
+
+.good_step{
+	background-color: silver;
+	margin-top: 5px;
+	margin-left: 0;
+	padding: 20px;
+}
